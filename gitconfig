@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = matias.torrealba.a@gmail.com
+	name = Matias Torrealba
